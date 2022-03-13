@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Pascal
 - 💞️ I’m looking to collaborate on some new projects!
-- 📫 How to reach me: nielsk10@gmx.de
 
 <!---
 nielsk10/nielsk10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
